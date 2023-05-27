@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'get_schwiftyregular';
+   src: url('./assets/font/get_schwifty-webfont.eot');
+   src: url('./assets/font/get_schwifty-webfont.eot?#iefix') format('embedded-opentype'),
+        url('./assets/font/get_schwifty-webfont.woff2') format('woff2'),
+        url('./assets/font/get_schwifty-webfont.woff') format('woff'),
+        url('./assets/font/get_schwifty-webfont.ttf') format('truetype'),
+        url('./assets/font/get_schwifty-webfont.svg#get_schwiftyregular') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
+
+.nav{
+   background-color: #4ef037;
+   padding: 1em;
+   display: flex;
+   flex-direction: row;
+   justify-content: end;
+   margin-bottom: 0em;
+}
